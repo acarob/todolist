@@ -1,6 +1,6 @@
 import "./App.css";
 import todologo from "./images/todo.png";
-import TaskForm from "./components/TaskForm";
+import TaskList from "./components/TaskList";
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
       </div>
       <div className="todo-main-list">
         <h1>My tasks</h1>
-        <TaskForm />
+        <TaskList />
       </div>
     </div>
   );
