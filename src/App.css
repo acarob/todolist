@@ -11,7 +11,14 @@ body {
   color: white;
   background-color: #1b1b32;
   font-family: "Butterfly Kids", cursive;
-  margin-top: 40px;
+  /* margin-top: 40px; */
+}
+
+h1 {
+  color: #1b1b32;
+  font-size: 25px;
+  text-align: center;
+  margin: 20px 0;
 }
 
 .App {
@@ -30,6 +37,15 @@ body {
 }
 
 .todo-logo {
-  width: 200px;
+  width: 300px;
   height: auto;
+}
+
+.todo-main-list {
+  width: 600px;
+  min-height: 500px;
+  background-color: #d0d0d5;
+  padding: 25px;
+  margin: 10px;
+  border-radius: 26px;
 }
