@@ -44,7 +44,21 @@ h1 {
 .todo-main-list {
   width: 600px;
   min-height: 500px;
-  background-color: #d0d0d5;
+  background-image: linear-gradient(
+    to right top,
+    #b7fe9e,
+    #a7feac,
+    #98feba,
+    #8cfdc8,
+    #82fbd4,
+    #77f8da,
+    #6df5df,
+    #65f1e4,
+    #54ece6,
+    #42e7e8,
+    #2ce1ea,
+    #00dcec
+  );
   padding: 25px;
   margin: 10px;
   border-radius: 26px;
