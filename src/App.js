@@ -9,7 +9,7 @@ function App() {
         <img src={todologo} className="todo-logo" alt="logo" />
       </div>
       <div className="todo-main-list">
-        <h1>My tasks </h1>
+        <h1>My tasks</h1>
         <TaskList />
       </div>
     </div>
